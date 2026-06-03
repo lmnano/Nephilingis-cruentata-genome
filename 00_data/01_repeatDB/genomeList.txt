@@ -1,0 +1,17 @@
+../00_data/genomes/Amaurobius_ferox_GCA_951213105.1.fa
+../00_data/genomes/Araneus_marmoreus_GCA_050042785.1_ASM5004278v1_genomic.fa
+../00_data/genomes/Argiope_bruennichi_GCA_947563725.1.fa
+../00_data/genomes/Dysdera_silvatica_GCA_006491805.2_Dsil_v2_genome_genomic.fa
+../00_data/genomes/Ectatosticta_davidi.genome.fa
+../00_data/genomes/Gibbaranea_gibbosa_GCA_964059485.1.fa
+../00_data/genomes/Hylyphantes_graminicola_IOZCAS_Hgram_genomeAssembly_1.0.fa
+../00_data/genomes/Larinioides_cornutus_GCA_964340895.1.fa
+../00_data/genomes/Latrodectus_elegans_GCA_030067965.1_ASM3006796v1_genomic.fa
+../00_data/genomes/Meta_bourneti_GCA_933210815.1.fa
+../00_data/genomes/Nephilingis_cruentata_F11-0418.Chr.fa
+../00_data/genomes/Oedothorax_gibbosus_GCA_019343175.1_Ogib_1.0_genomic.fa
+../00_data/genomes/Parasteatoda_lunata_GCA_949128135.1.fa
+../00_data/genomes/Pardosa_pseudoannulata_GCA_032207245.1_NJAU_Ppse_V1_genomic.fa
+../00_data/genomes/Tetragnatha_montana_GCA_963680715.1.fa
+../00_data/genomes/Trichonephila_antipodiana.genome.fa
+../00_data/genomes/Uloborus_diversus_Udiv.v.3.1.fa
