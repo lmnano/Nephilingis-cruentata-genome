@@ -1,0 +1,18 @@
+((Ectatosticta_davidi:0.27275099999999997,Dysdera_silvatica:0.654441):0.07705050000000002,((Uloborus_diversus:0.295102,(Amaurobius_ferox:0.15607000000000004,Pardosa_pseudoannulata:0.167821):0.12452000000000008):0.028259999999999952,((Parasteatoda_lunata:0.210596,Latrodectus_elegans:0.17013199999999995):0.13341599999999998,((Meta_bourneti:0.08831500000000003,Tetragnatha_montana:0.21956999999999993):0.10795699999999997,((Oedothorax_gibbosus:0.05106199999999994,Hylyphantes_graminicola:0.017312999999999912):0.2901880000000001,((Nephilingis_cruentata:0.04741400000000007,Trichonephila_antipodiana:0.05128099999999991):0.09123999999999999,(Argiope_bruennichi:0.04821999999999993,((Araneus_marmoreus:0.026402000000000037,Gibbaranea_gibbosa:0.033130000000000104):0.004051000000000027,Larinioides_cornutus:0.03401300000000007):0.016945999999999906):0.09191700000000003):0.0828279999999999):0.021905000000000063):0.057004000000000055):0.06720799999999993):0.24412449999999997);
+Amaurobius_ferox ../00_data/genomes/Amaurobius_ferox_GCA_951213105.1.cleanedheader.fa.masked.gz
+Araneus_marmoreus ../00_data/genomes/Araneus_marmoreus_GCA_050042785.1_ASM5004278v1_genomic.cleanedheader.fa.masked.gz
+Argiope_bruennichi ../00_data/genomes/Argiope_bruennichi_GCA_947563725.1.cleanedheader.fa.masked.gz
+Dysdera_silvatica ../00_data/genomes/Dysdera_silvatica_GCA_006491805.2_Dsil_v2_genome_genomic.cleanedheader.fa.masked.gz
+Ectatosticta_davidi ../00_data/genomes/Ectatosticta_davidi.genome.cleanedheader.fa.masked.gz
+Gibbaranea_gibbosa ../00_data/genomes/Gibbaranea_gibbosa_GCA_964059485.1.cleanedheader.fa.masked.gz
+Hylyphantes_graminicola ../00_data/genomes/Hylyphantes_graminicola_IOZCAS_Hgram_genomeAssembly_1.0.cleanedheader.fa.masked.gz
+Larinioides_cornutus ../00_data/genomes/Larinioides_cornutus_GCA_964340895.1.cleanedheader.fa.masked.gz
+Latrodectus_elegans ../00_data/genomes/Latrodectus_elegans_GCA_030067965.1_ASM3006796v1_genomic.cleanedheader.fa.masked.gz
+Meta_bourneti ../00_data/genomes/Meta_bourneti_GCA_933210815.1.cleanedheader.fa.masked.gz
+Nephilingis_cruentata ../00_data/genomes/Nephilingis_cruentata_F11-0418.Chr.cleanedheader.fa.masked.gz
+Oedothorax_gibbosus ../00_data/genomes/Oedothorax_gibbosus_GCA_019343175.1_Ogib_1.0_genomic.cleanedheader.fa.masked.gz
+Parasteatoda_lunata ../00_data/genomes/Parasteatoda_lunata_GCA_949128135.1.cleanedheader.fa.masked.gz
+Pardosa_pseudoannulata ../00_data/genomes/Pardosa_pseudoannulata_GCA_032207245.1_NJAU_Ppse_V1_genomic.cleanedheader.fa.masked.gz
+Tetragnatha_montana ../00_data/genomes/Tetragnatha_montana_GCA_963680715.1.cleanedheader.fa.masked.gz
+Trichonephila_antipodiana ../00_data/genomes/Trichonephila_antipodiana.genome.cleanedheader.fa.masked.gz
+Uloborus_diversus ../00_data/genomes/Uloborus_diversus_Udiv.v.3.1.cleanedheader.fa.masked.gz
