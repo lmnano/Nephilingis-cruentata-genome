@@ -20,7 +20,7 @@ This was in intermediate step to check the results of RepeatMasker run using 04_
 
 ## 05 Cactus Whole Genome Alignment
 
-Next whole genome alignments were made with Progressive Cactus. This was done twice, once with all the species (05.1_cactusFull.sh), full analysis and once with a selection of species that had their sex chromosomes identified not by syteny (05.2_cactusMin.sh). Inputs are the Cactus seqfile containing the phylogenetic tree for the species in question, and directories for job store, work dir and final output. It was run with the --logInfo option. The tree for the limited number of species analysis was made with 05.1_tree_for_cactus.R R script, using the ape package.
+Next whole genome alignments were made with Progressive Cactus. This was done with 05.1_cactusFull.sh script. Inputs are the Cactus seqfile containing the phylogenetic tree for the species in question with the locations for the masked genomes, and directories for job store, work dir and final output. It was run with the --logInfo option.
 
 ## 06 Synteny analysis
 
