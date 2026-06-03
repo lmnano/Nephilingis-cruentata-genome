@@ -14,7 +14,7 @@ Two species did not run with -LTRStruct, due to the software getting stuck, thos
 RepeatMasker was used next, again from dfam-tetools-latest.sif container. Inputs are list of genomes and a list of RepeatModeler outputs. Options used are -xsmall and -nolow, Cactus should be able to figure out low complexity repeats. 
 Script used was 03_repeatmasker.sh.
 
-## 04 RepeatMaskaer Result Summary
+## 04 RepeatMasker Result Summary
 
 This was in intermediate step to check the results of RepeatMasker run using 04_repeatmodeler_results.sh. It uses the RepeatMasker .tbl results to make the summary and outputs a .tsv table.
 
