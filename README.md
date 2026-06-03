@@ -6,9 +6,8 @@ First databases were created using BuildDatabase command from dfam-tetools-lates
 
 ## 02 RepeatModeler
 
-Next step was running RepeatModeler, from tetools_latest.sif container. RepeatModeler was used to create a repeat database for each genome, -LTRStruct option was used. In order to make it run faster this step was done in 4 batches with 4 separate scripts, each covering a few genomes. Inputs are separate lists of genomes.
-The scripts used were 02_repeatModeler01.sh and the rest with numered up to 04.
-Two specise did not run with -LTRStruct, due to the software getting stuck, those were run separately using 02_repeatModelerEdavidi.sh and 02_repeatModelerPpseudoannulata.sh.
+Next step was running RepeatModeler, from tetools_latest.sif container. RepeatModeler was used to create a repeat database for each genome, -LTRStruct option was used. Input is a list of genomes.
+Two species did not run with -LTRStruct, due to the software getting stuck, those were run separately using 02_repeatModelerEdavidi.sh and 02_repeatModelerPpseudoannulata.sh.
 
 ## 03 RepeatMasker
 
