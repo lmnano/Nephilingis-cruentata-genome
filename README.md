@@ -24,10 +24,10 @@ Next whole genome alignments were made with Progressive Cactus. This was done wi
 
 ## 06 Synteny analysis
 
-Synteny analysis was done in the same way for both analyses from the prevoius step. Scripts used were 06_cactus_synteny_full_*.sh for the full analysis and 06_cactus_synteny_*sh for the limited one. Species in the name represents the target species.
-Software used was halSynteny that comes packaged in the Progressive Cactus container. The main input is the .hal file, the result from the previous step. Since halSynteny does only pairwise comparisons for synteny the script takes one species from the .hal file as the target species and loops through all the other species in a for loop. As a result of this it requires a list of all other species to loop through.
+Synteny analysis was done in the same way for both analyses from the prevoius step. Scripts used were 06_cactus_synteny_full_*.sh. Species in the name represents the target species.
+Software used was halSynteny that comes packaged in the Progressive Cactus container. The main input is the .hal file, the result from the previous step. Since halSynteny does only pairwise comparisons for synteny the script takes one species from the .hal file as the target species and loops through all the other species in a for loop. As a result of this, it requires a list of all other species to loop through.
 
-These lists are provided as the 06_synteny_list_full_*.txt and 06_synteny_list_*.txt files where the species in the name represents the target species. They were made using the 06.1_synteny_sp_list_for_full.R script, which takes the all_sp.xlsx table as the input.
+These lists are provided as the 06_synteny_list_full_*.txt files where the species in the name represents the target species. They were made using the 06.1_synteny_sp_list_for_full.R script, which takes the all_sp.xlsx table as the input.
 
 The final result of this step result is a .psl table.
 
