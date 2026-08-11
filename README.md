@@ -1,10 +1,36 @@
 # Readme - work in progress
 
+## Chromosome determination
+
+Finding and determening sex chromosomes is in the folder chr_det. (NEED TO UPLOAD)
+
+### 00 QC
+
+First QC was performed on the raw data using FastQC with the 00_fastQC.sh script. Input data is the folder with raw reads (not available on this repository).
+
+### 01 Read trimming
+
+Read trimming was done with TrimGalore!, using the 01_trimgalore.sh script. The inputs are raw reads.
+
+### 02 Indexing genome
+
+In this step index of the genome was created with bwa index, for later alignment with bwa mem. The script used was 02_bwa_index.sh, input is the genome (not available in this repository).
+
+### 03 Read mapping
+
+Here trimmed reads were mapped to the genome using bwa mem with the script 03_bwa_mapping.sh. Inputs for the script are the genome index and the trimmed reads. Script pipes bwa mem output to samtools sort to create sorted bam files and later uses samtools index for indexing the sorted bam files.
+
+### 04 Converting to bed
+
+This step converts result from the previous step to bed format using bedtools bamtobed using the 04_bwa_bam_to_bed.sh script. Inputs are bed files from the previous step.
+
 ## Synteny analysis
+
+Synteny analsis is in the folder genome_synteny (NEED TO MOVE)
 
 ### 01 Repeat DB creation
 
-First databases were created using BuildDatabase command from dfam-tetools-latest.sif container. These were used for input for RepeatModeler in the next step. Input is a list of all the genomes with paths to their location. Databases were built for each genome separately, making one database with all the genomes used didn't work. This was done with 01_repeatDB.sh script.
+First databases were created using BuildDatabase command from dfam-tetools-latest.sif container. These were used for input for RepeatModeler in the next step. Input is a list of all the genomes with paths to their location. The genomes are not available in this repository and should be downloaded separately from databases and put in an appropriate folder. Databases were built for each genome separately, making one database with all the genomes used didn't work. This was done with 01_repeatDB.sh script.
 
 ### 02 RepeatModeler
 
