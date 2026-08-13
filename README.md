@@ -1,8 +1,10 @@
 # Readme - work in progress
 
+Scripts have pre-detrmined input paths, if you use different ones, they need to be adjusted accordingly. Starting input datasets are not available in this repository.
+
 ## Chromosome determination
 
-Finding and determening sex chromosomes is in the folder chr_det. (NEED TO UPLOAD)
+Finding and determening sex chromosomes is in the folder chr_det.
 
 ### 00 QC
 
