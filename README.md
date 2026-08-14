@@ -1,4 +1,4 @@
-# Readme - work in progress
+# Readme
 
 Scripts have pre-detrmined input paths, if you use different ones, they need to be adjusted accordingly. Starting input datasets are not available in this repository.
 
@@ -28,7 +28,7 @@ This step converts result from the previous step to bed format using bedtools ba
 
 ## Synteny analysis
 
-Synteny analsis is in the folder genome_synteny (NEED TO MOVE)
+Synteny analsis is in the folder genome_synteny
 
 ### 01 Repeat DB creation
 
