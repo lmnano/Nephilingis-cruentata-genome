@@ -1,0 +1,19 @@
+species,accession,genome_size,chrs_aut_sex,mapped_to_chrs,BUSCO,sex_chrs,genes,repeat_content,masked_perc,retro_perc,RC_perc,unclass_perc
+Amaurobius ferox,GCA_951213105,3.56,23,99,98.2,X1+X2+X3,NA,NA,71.89,23.91,2.9,27.86
+Araneus marmoreus,GCA_050042785,2.39,13,99.7,97.1,NA,"23,381",59.3,59.63,12.93,2.75,28.21
+Argiope bruennichi,GCA_015342795,1.78,13,99.9,98.1,X1+X2,"23,655",34.7,41.37,6.97,0.83,20.2
+Dysdera silvatica,GCA_006491805,1.37,8,87,86.5,X,"33,275",53.8,59.41,15.98,0.06,21.01
+Ectatosticta davidi,10.57760/sciencedb.06872 ,2.16,15,NA,95.4,NA,"15,651",66.7,66.39,15.13,1.2,36.08
+Gibbaranea gibbosa,GCA_964059485,2.82,13,98.6,98.3,X1+X2,NA,37,62.93,14.84,2.54,27.01
+Hylyphantes graminicola,GCA_023701765,0.93,13,99.6,95.1,X1+X2,"19,124",50.6,49.94,13.03,0.98,27.17
+Larinioides cornutus,GCA_964340895,2.3,13,98.5,98.2,X1+X2,NA,NA,53.98,8.69,3.38,27.79
+Latrodectus elegans,GCA_030067965,1.57,14,98.1,NA,NA,"20,167",32.3,33.08,11.1,0.19,9.05
+Meta bourneti,GCA_933210815,1.38,13,98.6,97.2,X1+X2,NA,NA,56.08,14.2,1.76,22.71
+Nephilingis cruentata,t.b.d.,1.72,13,99.5,98.8,X1+X2,"20,021",42.7,46.03,14.57,0.16,14.52
+Oedothorax gibbosus,GCA_019343175,0.82,13,NA,NA,X1+X2,"29,717",54.4,50.45,11.36,1.01,29.92
+Parasteatoda lunata,GCA_949128135,1.41,12,96.6,98.8,X1+X2,"19,213",NA,53.2,16.33,0.84,25.82
+Parasteatoda tepidariorum,GCA_043381705,1.13,12,NA,98.1,NA,"20,182",43.3,NA,NA,NA,NA
+Pardosa pseudoannulata,GCA_032207245,2.42,15,94.8,NA,NA,"24,530",52.8,52.37,4.75,0.47,34.63
+Tetragnatha montana,GCA_963680715,0.7847,13,99.3,NA,X1+X2,"18,361",NA,45.2,9,0.57,24.02
+Trichonephila antipodiana,GCA_050495765,2.29,13,98.5,NA,NA,"19,001",59.2,58.57,11.97,2.17,17.71
+Uloborus diversus,GCA_026930045,1.98,10,88,94.8,X1+X2,"44,408",66.6,67.71,16.39,4.64,29.25
